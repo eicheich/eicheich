@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Husnul :></h1>
+<h1 align="center">Hi 👋, I'm Husnul</h1>
 <h3 align="center">A fun backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eicheich&label=Profile%20views&color=0e75b6&style=flat" alt="eicheich" /> </p>
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AKLOtr0VY0AbiHS8EqlNKHHkIJZQDCVv/view?usp=drive_link](https://drive.google.com/file/d/1AKLOtr0VY0AbiHS8EqlNKHHkIJZQDCVv/view?usp=drive_link)
 
-- ⚡ Fun fact **I think i'm broke haha JK.**
+- ⚡ Fun fact **I Love pressure, sometimes :]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
