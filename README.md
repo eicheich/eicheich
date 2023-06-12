@@ -13,10 +13,6 @@
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **husnulkhotimah110106@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AKLOtr0VY0AbiHS8EqlNKHHkIJZQDCVv/view?usp=drive_link](https://drive.google.com/file/d/1AKLOtr0VY0AbiHS8EqlNKHHkIJZQDCVv/view?usp=drive_link)
-
 - ⚡ Fun fact **I Love pressure, sometimes :]**
 
 <h3 align="left">Connect with me:</h3>
